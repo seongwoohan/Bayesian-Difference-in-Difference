@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+pymc>=5.10
+pytensor>=2.18
+nutpie>=0.11
+statsmodels>=0.14
+arviz>=0.16
+xarray>=2023.1
+matplotlib>=3.7
+scipy>=1.10
